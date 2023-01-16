@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "15abe9143ec32560",
+    "type": "split",
+    "children": [
+      {
+        "id": "f518f0a7f1e76000",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce3a18d56ab99935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/literature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70e975346761f2b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9db05e2a4c4f228c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdac50bbe4482c42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98714a01d816c3da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e87b4583be531eb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7910fb8a99d47697",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0cd507040e12237",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d5edce6671e31e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/literature.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "788719a73c087dff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/literature.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "caecad69c7305dce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c4ce81a41f9cb21a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/literature.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ce3a18d56ab99935",
+  "lastOpenFiles": [
+    "Templates/entry note.md",
+    "Templates/note.md",
+    "Templates/project.md",
+    "Templates/literature.md",
+    "refs/what is pseudocode.md",
+    "refs/What is an Api ..md",
+    "refs/VCS.md",
+    "refs/the RAM model.md",
+    "refs/The inherent complexity of software.md",
+    "refs/the correctness of an algorithm.md"
+  ]
+}
