@@ -3,5 +3,10 @@
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "obsidian-outliner",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-smart-typography",
+  "obsidian-style-settings",
+  "obsidian-rtl",
+  "obsidian-prozen",
+  "obsidian-markdown-formatting-assistant-plugin"
 ]

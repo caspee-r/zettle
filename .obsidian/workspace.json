@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/literature.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c4b9980aedb7b90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sami.md",
-                "mode": "source",
+                "file": "refs/the lobotomized owl.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sami.md",
+                "file": "refs/the lobotomized owl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sami.md",
+                "file": "refs/the lobotomized owl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sami.md"
+                "file": "refs/the lobotomized owl.md"
               }
             }
+          },
+          {
+            "id": "96b3fa653cec19c1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,20 +154,21 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6c4b9980aedb7b90",
+  "active": "cdac50bbe4482c42",
   "lastOpenFiles": [
+    "refs/margin collapse.md",
+    "refs/double container pattern.md",
+    "Excalidraw/double_container_pattern.excalidraw.md",
+    "refs/working with relative units.md",
+    "refs/nix-lang.md",
     "Templates/literature.md",
+    "Untitled.md",
+    "sami.md",
     "Templates/entry note.md",
-    "Templates/note.md",
-    "Templates/project.md",
-    "refs/what is pseudocode.md",
-    "refs/What is an Api ..md",
-    "refs/VCS.md",
-    "refs/the RAM model.md",
-    "refs/The inherent complexity of software.md",
-    "refs/the correctness of an algorithm.md"
+    "Templates/note.md"
   ]
 }
