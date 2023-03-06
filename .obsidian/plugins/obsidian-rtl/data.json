@@ -1,0 +1,11 @@
+{
+  "fileDirections": {
+    "refs/margin collapse.md": "ltr",
+    "blog/an Overview on the Compositors.md": "auto"
+  },
+  "defaultDirection": "ltr",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}

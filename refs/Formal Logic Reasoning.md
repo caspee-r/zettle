@@ -17,8 +17,6 @@
 ### misconceptions
 - a correct piece of reasoning does not implies that it's conclusion necessarily be true
 
-
-
 ---
 ### references
 - 

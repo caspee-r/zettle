@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42f0417afd58d0a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "refs/Formal Logic Reasoning.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7910fb8a99d47697",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "refs/the lobotomized owl.md",
+                "file": "refs/Formal Logic Reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "refs/the lobotomized owl.md",
+                "file": "refs/Formal Logic Reasoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,30 +129,21 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
           {
-            "id": "c4ce81a41f9cb21a",
+            "id": "944ecad9709223bd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "refs/the lobotomized owl.md"
+                "file": "refs/Formal Logic Reasoning.md"
               }
             }
-          },
-          {
-            "id": "96b3fa653cec19c1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,13 +158,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdac50bbe4482c42",
+  "active": "7d5edce6671e31e1",
   "lastOpenFiles": [
+    "blog/an Overview on the Compositors.md",
+    "refs/the lobotomized owl.md",
     "refs/margin collapse.md",
     "refs/double container pattern.md",
     "Excalidraw/double_container_pattern.excalidraw.md",
@@ -168,7 +175,6 @@
     "Templates/literature.md",
     "Untitled.md",
     "sami.md",
-    "Templates/entry note.md",
-    "Templates/note.md"
+    "Templates/entry note.md"
   ]
 }

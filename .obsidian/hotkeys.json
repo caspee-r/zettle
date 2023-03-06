@@ -14,5 +14,13 @@
       ],
       "key": "R"
     }
+  ],
+  "obsidian-minimal-settings:toggle-minimal-focus-mode": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Z"
+    }
   ]
 }
