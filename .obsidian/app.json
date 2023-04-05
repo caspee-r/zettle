@@ -6,5 +6,6 @@
   "readableLineLength": true,
   "spellcheckLanguages": [
     "en-US"
-  ]
+  ],
+  "rightToLeft": true
 }
