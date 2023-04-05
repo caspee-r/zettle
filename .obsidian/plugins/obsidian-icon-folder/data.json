@@ -1,0 +1,32 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": "#e864c5",
+    "recentlyUsedIcons": [
+      "FasFile",
+      "FasBookJournalWhills",
+      "FasDrawPolygon",
+      "FasDraw-polygon",
+      "FasBoxes-stacked"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "blog": "FasBlog",
+  "Excalidraw": "FasPencil",
+  "inbox": "FasInbox",
+  "refs": "FasBook",
+  "slip-box": "FasInbox",
+  "Templates": "FasDrawPolygon",
+  "Journal": "FasBookJournalWhills",
+  "Assets": "FasFile"
+}

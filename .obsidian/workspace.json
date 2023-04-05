@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f518f0a7f1e76000",
+        "id": "a504405389b572cd",
         "type": "tabs",
         "children": [
           {
-            "id": "ce3a18d56ab99935",
+            "id": "0c0b5d91e2b5ae2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "refs/the lobotomized owl.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42f0417afd58d0a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "refs/Formal Logic Reasoning.md",
-                "mode": "preview",
+                "file": "Journal/2023-04-05.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7910fb8a99d47697",
@@ -93,35 +79,6 @@
         "id": "c0cd507040e12237",
         "type": "tabs",
         "children": [
-          {
-            "id": "7d5edce6671e31e1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "refs/Formal Logic Reasoning.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "788719a73c087dff",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "refs/Formal Logic Reasoning.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "caecad69c7305dce",
             "type": "leaf",
@@ -139,15 +96,54 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "refs/Formal Logic Reasoning.md"
+                "file": "Journal/2023-04-05.md"
               }
             }
+          },
+          {
+            "id": "196a1908d60d7d0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/2023-04-05.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aac1a5ce6dccaef4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/2023-04-05.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fb812d0f270e36d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +159,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d5edce6671e31e1",
+  "active": "0c0b5d91e2b5ae2c",
   "lastOpenFiles": [
+    "Study.md",
+    "Journal/2023-04-05.md",
+    "Journal/2023-04-04.md",
+    "Assets",
+    "2023-04-04.md",
+    "Journal",
+    "TASKS.md",
+    "Untitled.md",
+    "2023-03-30.md",
+    "keybinding.md",
+    "2023-03-18.md",
+    "inbox/wishful thinking.md",
+    "refs/algorithms analysis.md",
+    "blog/Language Server Protocol aka LSP.md",
+    "refs/language server protocol.md",
+    "refs/unfuck yourself.md",
+    "refs/Formal Logic Reasoning.md",
     "blog/an Overview on the Compositors.md",
     "refs/the lobotomized owl.md",
     "refs/margin collapse.md",
@@ -173,7 +186,6 @@
     "refs/working with relative units.md",
     "refs/nix-lang.md",
     "Templates/literature.md",
-    "Untitled.md",
     "sami.md",
     "Templates/entry note.md"
   ]

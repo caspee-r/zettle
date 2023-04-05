@@ -1,7 +1,8 @@
 {
   "fileDirections": {
     "refs/margin collapse.md": "ltr",
-    "blog/an Overview on the Compositors.md": "auto"
+    "blog/an Overview on the Compositors.md": "auto",
+    "Journal/2023-04-05.md": "auto"
   },
   "defaultDirection": "ltr",
   "rememberPerFile": true,
